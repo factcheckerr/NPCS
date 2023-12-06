@@ -1,4 +1,0 @@
-SELECT ?var2
-WHERE {
-?var1 <http://www.wikidata.org/prop/direct/P1082> ?var2 .
-}
